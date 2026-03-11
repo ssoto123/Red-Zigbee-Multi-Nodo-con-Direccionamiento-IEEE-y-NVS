@@ -6,8 +6,7 @@ En esta práctica evolucionaremos nuestra red Zigbee básica a un sistema de con
 
 ## 👨‍🏫 Datos de la Asignatura
 * **Docente:** MGTI. Saul Isai Soto Ortiz
-* **Institución:** Universidad Autónoma del Estado de Hidalgo (UAEH)
-* **Programa Educativo:** TICs (6to Semestre)
+
 
 ---
 
